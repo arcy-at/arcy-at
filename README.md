@@ -6,7 +6,7 @@ i make things i guess
 Skills: DiscordJS, fucking with stuff
 
 - 🔭 I’m currently working on Hallucinate 
-- :slight_smile: I’m currently learning DiscordJS 
+- 🏫 I’m currently learning DiscordJS 
 - 📫 How to reach me: HighArcs#0001 on Discord 
 - 😄 Pronouns: he/him/they/them 
 
